@@ -5,8 +5,8 @@
 
 ## 安装
 
-1.新建目录shell
-```
+1.新建目录
+```shell
 mkdir demo & cd demo
 ```
 
@@ -104,22 +104,20 @@ npm run dev
 ```shell
 npm run dev
 ```
-![](![](https://cdn.jsdelivr.net/gh/Apollo2light/apolloblogpicture/img/截屏2022-05-25 下午11.25.35.png))
+![]((https://cdn.jsdelivr.net/gh/Apollo2light/apolloblogpicture/img/截屏2022-05-25 下午11.25.35.png))
 
 
 4.之后的开发中可以：
 - 在rules中自定义规则
 - 在要编写的页面通过注释定义规则
 - 使用"extends": "eslint:recommended"默认规则
+- 使eslint暂时失效
 
-
-使eslint暂时失效
 ```javascript
- /* eslint 规则名 : 等级 */
-
+/* eslint 规则名 : 等级 */
 
 /* eslint-disable */
 代码
 /* eslint-enable */
 ```
-
+5.如果不知道怎么解决eslint检测出的错误，可以前往http://eslint.cn/docs/rules/查找修改
