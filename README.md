@@ -120,4 +120,4 @@ npm run dev
 代码
 /* eslint-enable */
 ```
-5.如果不知道怎么解决eslint检测出的错误，可以前往http://eslint.cn/docs/rules/查找修改
+5.如果不知道怎么解决eslint检测出的错误，可以前往http://eslint.cn/docs/rules/ 查找修改
