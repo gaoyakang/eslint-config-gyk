@@ -104,7 +104,7 @@ npm run dev
 ```shell
 npm run dev
 ```
-![]((https://cdn.jsdelivr.net/gh/Apollo2light/apolloblogpicture/img/截屏2022-05-25 下午11.25.35.png)
+![](https://cdn.jsdelivr.net/gh/Apollo2light/apolloblogpicture@master/img/%E6%88%AA%E5%B1%8F2022-05-25%20%E4%B8%8B%E5%8D%8811.25.35.png)
 
 
 4.之后的开发中可以：
