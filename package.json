@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-gyk",
+  "version": "1.0.0",
+  "description": "gyk's eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test/*.js"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "gyk"
+  ],
+  "author": "gyk",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^3.5.2",
+    "eslint": "^6.8.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=3.18.0"
+  }
+}
