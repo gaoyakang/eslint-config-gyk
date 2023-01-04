@@ -16,7 +16,7 @@ npm install eslint eslint-config-gyk --save-dev
 ```
 
 3.配置
-``shell
+```shell
 
 npx eslint --init
 ```
