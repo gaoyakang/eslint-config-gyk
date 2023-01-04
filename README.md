@@ -17,13 +17,14 @@ npm install eslint eslint-config-gyk --save-dev
 
 3.配置
 ``shell
-npx eslint --init
 
+npx eslint --init
 ```
 
 4.使用
 经过上面init后在根目录下生成.eslintrc.js文件，配置如下：
 ```javascript
+
 module.exports = {
     // 代码最终在什么环境使用
     "env": {
